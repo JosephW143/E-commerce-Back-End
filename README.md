@@ -10,4 +10,4 @@ This was made to be the backend for an E-commerce site that can be run throught 
 * Sequalize
 
 ## Video Demonstration 
-Coming Soon...
+https://drive.google.com/file/d/14S4FP6FTrX6StzgkLve8n5Dr_F9a4vWB/view
